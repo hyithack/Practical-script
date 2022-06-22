@@ -34,9 +34,9 @@ conn.commit()
 
 
 # AccessKey Id,
-access_key_id = 'LTAI5t5edZP3oxUtcLDF3qkB'
+access_key_id = 'LTA*********************kB'
 # AccessKey Secret,
-access_key_secret = '4f4wRODbH7MPqB67MjdXv2J9XzKz8j'
+access_key_secret = '4************************z8j'
 # 区域id，根据实际情况补充列表
 region_id = ['cn-qingdao', 'cn-beijing', 'cn-zhangjiakou', 'cn-huhehaote', 'cn-wulanchabu', 'cn-hangzhou',
              'cn-shanghai',
