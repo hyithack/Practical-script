@@ -32,3 +32,13 @@
 #Go读取MySQL数据库信息并且转换成json格式作为后端接口访问
 使用Go语言读取MySQL数据库中的信息并且转换成json格式,使用web作为后端接口提供访问.
 ```
+### 6.OpenVPN一键部署脚本--[openvpn-install.sh]
+
+```bash
+#OpenVPN一键部署脚本
+```
+### 7.OpenVPN设置账号密码脚本--[checkpsw.sh]
+
+```bash
+#OpenVPN设置账号密码脚本
+```
